@@ -18,7 +18,7 @@ openai_api_key = "insira a API da OPENAI"
 
 client = OpenAI(api_key=openai_api_key)
 
-MODEL = "gpt-4o-mini"
+MODEL = "GPT-4o"
 
 messages = [
     {
