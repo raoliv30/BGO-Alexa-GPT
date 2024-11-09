@@ -1,2 +1,4 @@
-ask-sdk-core==1.19.0
+ask-sdk-core==1.11.0
 openai==1.6.1
+requests>=2.20.0
+tqdm>=4.50.0
